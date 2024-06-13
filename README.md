@@ -23,7 +23,7 @@ I am an Android Developer with a passion for creating intuitive and user-friendl
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/imran-ahmad-im463](www.linkedin.com/in/imran-ahmad-im463)
+- LinkedIn: [linkedin.com/in/imran-ahmad-im463](https://linkedin.com/in/imran-ahmad-im463)
 - Email: [imranjmi463@gmail.com](mailto:imranjmi463@gmail.com)
 
 ## 📂 Featured Projects  
