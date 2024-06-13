@@ -1,4 +1,4 @@
-# Hi, I'm Imran Ahmad 
+# Hi, I'm Imran Ahmad.
 
 ##🚀 About Me
 
@@ -6,5 +6,5 @@ I am an Android Developer with a passion for creating intuitive and user-friendl
 I love to take challenges and solve that.
 
 🌱 Currently Learning
-Jetpack Compose
-Advanced Kotlin Features
+  Jetpack Compose
+  Advanced Kotlin Features
